@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/phakaphol-dherachaisuprakij-1092ab256/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.linkedin.com/in/phakaphol-dherachaisuprakij-1092ab256/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -40,7 +43,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-https://github-readme-streak-stats.herokuapp.com/?user=GodzK
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
