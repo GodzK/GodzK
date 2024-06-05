@@ -2,7 +2,7 @@
 
 **`(FrontEnd Developer/Creator)`**
 
-Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i coding  for 3years and i want to be a code explainer and FrontEnd Developer in the future and now im a competitior inevery interest Hackathon if you wonder to win a competition this team is open to join   .
+Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i coding  for 3 years and i want to be a code explainer and FrontEnd Developer in the future and now im a competitior inevery interest Hackathon if you wonder to win a competition this team is open to join   .
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">
@@ -41,7 +41,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 ### 📺 Latest Instagram Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![PyroGuard Change  innovation Competition](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=cSUpTJ-clrs&t=149s)
+[![PyroGuard Change  innovation Competition](https://www.youtube.com/watch?v=cSUpTJ-clrs&t=149s&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=cSUpTJ-clrs&t=149s)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
@@ -49,7 +49,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 
 ### 📊 Stats
 
-![GodzzK GitHub stats](https://github-readme-stats.vercel.app/api?username=godzk&show_icons=true&theme=gruvbox)
+![GodzK GitHub stats](https://github-readme-stats.vercel.app/api?username=godzk&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
