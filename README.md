@@ -14,7 +14,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
       <a href="https://github.com/GodzK?tab=repositories">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GodzK?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?GodzK=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🧰 Languages and Tools
@@ -51,7 +51,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 
 ### 📊 Stats
 
-![GodzK GitHub stats](https://github-readme-stats.vercel.app/api?username=godzk&show_icons=true&theme=radical)
+![GodzK GitHub stats](https://github-readme-stats.vercel.app/api?GodzK=godzk&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=UCcSwl5PU3NUYrGNjUZPLWxg&theme=gruvbox&border_radius=4.5) -->
 
