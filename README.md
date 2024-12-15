@@ -17,7 +17,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 
 
 
-<figure><embed src="https://wakatime.com/share/@GodzK/d657f1ec-5f0d-4af8-b852-2e7ca1006663.svg"></embed></figure>
+
  
 ---
 
