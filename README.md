@@ -54,9 +54,6 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 
 #
 
-### 📊 Stats
-
-![GodzK GitHub stats](https://github-readme-stats.vercel.app/api?GodzK=godzk&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=UCcSwl5PU3NUYrGNjUZPLWxg&theme=gruvbox&border_radius=4.5) -->
 
