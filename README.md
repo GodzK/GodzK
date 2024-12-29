@@ -2,7 +2,7 @@
 
 **`(FrontEnd Developer/Creator)`**
 
-Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i coding  for 3 years and i want to be a code explainer and FrontEnd Developer in the future and now im a competitior inevery interest Hackathon if you wonder to win a competition this team is open to join   .
+Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i coding  for 3 years and i want to be a code explainer and FullStack Developer in the future and now im a competitior inevery interest Hackathon if you wonder to win a competition this team is open to join   .
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">
