@@ -17,7 +17,8 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 
 
 
-[![GodzK wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GodzK)]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
