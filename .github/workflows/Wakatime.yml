@@ -1,33 +1,32 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
+  # Manual workflow trigger
   workflow_dispatch:
+  # Scheduled workflow - runs daily at 12 AM UTC
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    
-cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-        # this action name
-      
-uses: athul/waka-readme@master # do NOT replace with anything else
-      with:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-        ### content
-        SHOW_TITLE: true # optional
-        SECTION_NAME: code # optional
-        BLOCKS: -> # optional
-        CODE_LANG: rust # optional
-        TIME_RANGE: all_time # optional
-        LANG_COUNT: 10 # optional
-        SHOW_TIME: true # optional
-        SHOW_TOTAL: true # optional
-        SHOW_MASKED_TIME: false # optional
-        STOP_AT_OTHER: true # optional
-        IGNORED_LANGUAGES: YAML JSON TOML # optional
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update WakaTime stats in README
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Optional if not profile readme
+          SHOW_TITLE: true # Optional, default is true
+          SECTION_NAME: waka # Optional, default is 'waka'
+          TIME_RANGE: last_7_days # Optional, default is 'last_7_days'
+          LANG_COUNT: 10 # Optional, number of languages to display
+          SHOW_TIME: true # Optional, default is true
+          SHOW_TOTAL: true # Optional, default is true
+          SHOW_MASKED_TIME: false # Optional, default is false
+          STOP_AT_OTHER: false # Optional, default is false
+          IGNORED_LANGUAGES: "YAML, JSON, TOML" # Optional, specify ignored languages
