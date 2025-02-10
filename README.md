@@ -7,6 +7,10 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
  
 
 <!--START_SECTION:waka-->
+### GitHub Stats ⚡
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=GodzK&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/GodzK)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzK&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/GodzK)
 
 [![GodzK wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GodzK)](https://github.com/GodzK/github-readme-stats)
 
