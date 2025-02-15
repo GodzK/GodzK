@@ -4,9 +4,6 @@
 
 Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i coding  for 3 years and i want to be a code explainer and FullStack Developer in the future and now im a competitior inevery interest Hackathon if you wonder to win a competition this team is open to join   .
 ![Code Time](http://img.shields.io/badge/Code%20Time-2290%20hrs%2056%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.39%20million%20lines%20of%20code-blue)
  
 
