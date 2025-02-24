@@ -10,16 +10,6 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzK&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/GodzK)
 
 [![GodzK wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GodzK)](https://github.com/GodzK/github-readme-stats)
-
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:code-->
-
-
-
-<!--END_SECTION:code-->
-
-
 ---
 
 ### 🧰 Languages and Tools
