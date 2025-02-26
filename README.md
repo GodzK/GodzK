@@ -88,14 +88,6 @@ I excel in the high-stakes world of **hackathons**, where I transform ideas into
 
 ---
 
-## 📊 <b>GitHub Activity</b> 📊  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GodzK&theme=tokyonight&border_radius=10&hide_border=true&background=1f2532&stroke=00d4ff&ring=ff79c6&fire=00d4ff&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=00d4ff&sideLabels=ff79c6" alt="GitHub Streak" style="box-shadow: 0 0 15px rgba(0, 212, 255, 0.4);" />
-  <p><i>Consistency drives my progress—see it in action.</i></p>
-</div>
-
----
-
 ## 🚀 <b>Collaborate With Me</b> 🚀  
 <div align="center" style="background: #2d2d2d; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
   <p>Passionate about coding, hackathons, or creating impactful tech content? Let’s <b>connect</b> and build something extraordinary together. Reach out—I’m excited to make it happen! ✨</p>
