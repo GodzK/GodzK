@@ -1,95 +1,103 @@
 <div align="center">
-  <h1>🌠 <b>PK Phakaphol Tcsk</b> | Frontend & Animation Enchanter 🌠</h1>
-  <p><code style="background: linear-gradient(90deg, #ff6ec4, #7873f5); padding: 5px; border-radius: 5px; color: white;">Frontend | Blogger | Hackathon Competitor</code></p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Sorcerer’s Code Dance" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 110, 196, 0.7);" />
-  <p><i>Unleashing magic, one line of code at a time.</i></p>
+  <h1>🎨 <b>PK Phakaphol Tcsk</b> | Frontend Innovator & Animation Specialist 🎨</h1>
+  <p><code style="background: #2d2d2d; padding: 5px 10px; border-radius: 5px; color: #00d4ff; font-weight: bold;">Frontend Developer | Content Creator | Hackathon Enthusiast</code></p>
+  <img src="https://media.giphy.com/media/iIqu6SyGkf10Y/giphy.gif" width="250" alt="Code in Motion" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.5);" />
+  <p><i>Designing the future, one pixel at a time.</i></p>
 </div>
 
 ---
 
-## 🌌 <b>Enter My Celestial Domain</b> 🌌  
-I’m **PK Phakaphol**, a **Frontend Sorcerer** who conjures breathtaking, animated realms from raw code. With **3+ years of arcane mastery** tempered at **Borntodev Deinit#2**, I’m forging my destiny as a **Full-Stack Archmage** and **Tech Oracle**, illuminating the mysteries of programming for all.
+## 🖥️ <b>About Me</b> 🖥️  
+I’m **PK Phakaphol**, a dedicated **Frontend Developer** with a passion for building visually stunning, interactive experiences. With over **3 years of expertise** honed at **Borntodev Deinit#2**, I’m advancing toward my goal of becoming a **Full-Stack Developer** and a **Tech Educator**, making complex concepts accessible through clean, efficient code.
 
-I revel in the electrifying chaos of **hackathons**, where imagination fuses with precision to birth unparalleled innovation. Seeking a legendary crew to conquer the cosmos? My fellowship is ready to cast brilliance into reality! ✨
+I excel in the high-stakes world of **hackathons**, where I transform ideas into functional solutions with precision and creativity. Looking for a team to win big? I’m ready to collaborate and deliver excellence! 🚀
 
 ---
 
-## ⚡️ <b>My Enchanted Arsenal</b> ⚡️  
-<div style="background: #1a1a2e; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(120, 115, 245, 0.5);">
-  - 🎨 <b>Frontend Sorcery</b>: Weaving responsive, flawless designs with a mastery of frameworks and timeless fundamentals  
-  - 🌟 <b>Animation Enchantment</b>: Infusing UIs with soul using CSS, GSAP, and Three.js—my signature spellbook  
-  - 💻 <b>Code Conjuring</b>: Harmonizing React and Tailwind into seamless, celestial experiences  
-  - 🏆 <b>Hackathon Mastery</b>: Transmuting raw ideas into prototypes under the crucible of pressure  
+## ⚙️ <b>My Skill Set</b> ⚙️  
+<div style="background: #f5f5f5; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);">
+  - 🎨 <b>Frontend Expertise</b>: Crafting responsive, pixel-perfect interfaces with modern frameworks and core fundamentals  
+  - 🌟 <b>Animation Mastery</b>: Elevating UIs with dynamic motion using CSS, GSAP, and Three.js—my standout strength  
+  - 💻 <b>Development Precision</b>: Building seamless applications with React, Tailwind CSS, and optimized workflows  
+  - 🏆 <b>Hackathon Prowess</b>: Rapidly prototyping innovative solutions under tight deadlines  
 </div>
 
 ---
 
-## 🌃 <b>Cosmic Code Chronicles</b> 🌃  
+## 📈 <b>Coding Metrics</b> 📈  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=nightowl&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=ff6ec4&text_color=dedede&icon_color=7873f5" alt="WakaTime Stats" style="border-radius: 10px; box-shadow: 0 0 15px rgba(120, 115, 245, 0.7);" />
-  <p><i>My code dances through the night sky—captured by WakaTime’s celestial gaze.</i></p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=tokyonight&layout=compact&hide_border=true&bg_color=1f2532&title_color=00d4ff&text_color=cdd6f4&icon_color=ff79c6" alt="WakaTime Stats" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.4);" />
+  <p><i>Tracking my craft with WakaTime—every second counts.</i></p>
 </div>
 
 ---
 
-## 🌟 <b>Galactic Gallery of Wonders</b> 🌟  
-### <b>Behold My Stellar Creations</b>  
+## 🏅 <b>Portfolio Highlights</b> 🏅  
+### <b>Discover My Work</b>  
 <div align="center">
-  <img src="./portfolio.png" alt="Portfolio Nebula" width="400" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 110, 196, 0.8); transition: transform 0.3s; :hover { transform: scale(1.05); }" />
-  <p><i>A gateway to my multiverse of design and innovation.</i></p>
+  <img src="./portfolio.png" alt="Portfolio Showcase" width="400" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+  <p><i>A showcase of design precision and technical finesse.</i></p>
 </div>
 
-#### 🚀 <b>Legendary Feats</b>  
-- **[PyroGuard](https://www.youtube.com/watch?v=cSUpTJ-clrs&t=8s)** – A fiery conquest from the Change Innovation Competition  
-- **[3D Portfolio Odyssey](https://www.youtube.com/watch?v=ML5piOfz_ao)** – A hypnotic fusion of Three.js, React, and Tailwind  
-- **[Microsoft Ambassador Saga](https://www.youtube.com/watch?v=xr7nUM3XsXg)** – My epic tech chronicle, narrated with flair  
+#### 🚀 <b>Signature Projects</b>  
+- **[PyroGuard](https://www.youtube.com/watch?v=cSUpTJ-clrs&t=8s)** – A standout solution from the Change Innovation Competition  
+- **[3D Portfolio Showcase](https://www.youtube.com/watch?v=ML5piOfz_ao)** – A fusion of Three.js, React, and Tailwind CSS  
+- **[Microsoft Ambassador Intro](https://www.youtube.com/watch?v=xr7nUM3XsXg)** – A professional glimpse into my tech journey  
 
 ---
 
-## 🎥 <b>YouTube Starfield</b> 🎥  
-<div align="center" style="background: #0f0f23; padding: 20px; border-radius: 10px; box-shadow: 0 0 25px rgba(255, 110, 196, 0.6);">
+## 🎬 <b>YouTube Spotlight</b> 🎬  
+<div align="center" style="background: #2d2d2d; padding: 20px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.3);">
   <!-- BEGIN YOUTUBE-CARDS -->  
   <a href="https://www.youtube.com/watch?v=cSUpTJ-clrs&t=8s">
-    <img src="https://ytcards.demolab.com/?id=cSUpTJ-clrs&t=3s&title=PyroGuard+Change+Innovation&lang=en&background_color=%231a1a2e&title_color=%23ff6ec4&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10" alt="PyroGuard" />
+    <img src="https://ytcards.demolab.com/?id=cSUpTJ-clrs&t=3s&title=PyroGuard+Change+Innovation&lang=en&background_color=%232d2d2d&title_color=%2300d4ff&stats_color=%23cdd6f4&max_title_lines=1&width=250&border_radius=10" alt="PyroGuard" />
   </a>  
   <a href="https://www.youtube.com/watch?v=xr7nUM3XsXg">
-    <img src="https://ytcards.demolab.com/?id=xr7nUM3XsXg&t=3s&title=Microsoft+Ambassador+Intro&lang=en&background_color=%231a1a2e&title_color=%23ff6ec4&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10" alt="Microsoft Ambassador" />
+    <img src="https://ytcards.demolab.com/?id=xr7nUM3XsXg&t=3s&title=Microsoft+Ambassador+Intro&lang=en&background_color=%232d2d2d&title_color=%2300d4ff&stats_color=%23cdd6f4&max_title_lines=1&width=250&border_radius=10" alt="Microsoft Ambassador" />
   </a>  
   <a href="https://www.youtube.com/watch?v=ML5piOfz_ao">
-    <img src="https://ytcards.demolab.com/?id=ML5piOfz_ao&t=3s&title=Fetch+Data+with+SWR&lang=en&background_color=%231a1a2e&title_color=%23ff6ec4&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10" alt="SWR Tutorial" />
+    <img src="https://ytcards.demolab.com/?id=ML5piOfz_ao&t=3s&title=Fetch+Data+with+SWR&lang=en&background_color=%232d2d2d&title_color=%2300d4ff&stats_color=%23cdd6f4&max_title_lines=1&width=250&border_radius=10" alt="SWR Tutorial" />
   </a>  
   <!-- END YOUTUBE-CARDS -->  
 </div>
 
 ---
 
-## 🔥 <b>Connect Through the Ether</b> 🔥  
+## 🌐 <b>Let’s Connect</b> 🌐  
 <div align="center">
   <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-ff6ec4?style=for-the-badge&logo=video&logoColor=white&labelColor=7873f5" alt="Subscribe on YouTube" style="border-radius: 5px; box-shadow: 0 0 10px rgba(255, 110, 196, 0.7);" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-00d4ff?style=for-the-badge&logo=video&logoColor=white&labelColor=2d2d2d" alt="Subscribe on YouTube" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0, 212, 255, 0.5);" />
   </a>
 </div>
 
-### 🌐 <b>Social Nebula</b>  
-<p align="center" style="background: #0f0f23; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(120, 115, 245, 0.5);">
+### 📡 <b>Social Links</b>  
+<p align="center" style="background: #f5f5f5; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);">
   <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">  
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcSwl5PU3NUYrGNjUZPLWxg?color=%23ff6ec4&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=7873f5" alt="YouTube Subscribers" />  
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcSwl5PU3NUYrGNjUZPLWxg?color=%2300d4ff&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=2d2d2d" alt="YouTube Subscribers" />  
   </a>  
   <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">  
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcSwl5PU3NUYrGNjUZPLWxg?color=%237873f5&logo=eye&logoColor=white&style=for-the-badge&labelColor=ff6ec4" alt="YouTube Views" />  
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcSwl5PU3NUYrGNjUZPLWxg?color=%23ff79c6&logo=eye&logoColor=white&style=for-the-badge&labelColor=2d2d2d" alt="YouTube Views" />  
   </a>  
   <a href="https://github.com/GodzK">  
-    <img src="https://custom-icon-badges.demolab.com/github/followers/GodzK?color=7873f5&labelColor=ff6ec4&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="GitHub Followers" />  
+    <img src="https://custom-icon-badges.demolab.com/github/followers/GodzK?color=00d4ff&labelColor=2d2d2d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="GitHub Followers" />  
   </a>  
   <a href="https://github.com/GodzK?tab=repositories">  
-    <img src="https://custom-icon-badges.demolab.com/github/stars/GodzK?color=ff6ec4&style=for-the-badge&labelColor=7873f5&logo=star" alt="GitHub Stars" />  
+    <img src="https://custom-icon-badges.demolab.com/github/stars/GodzK?color=ff79c6&style=for-the-badge&labelColor=2d2d2d&logo=star" alt="GitHub Stars" />  
   </a>  
-</p> 
+</p>
 
 ---
 
-## 🚀 <b>Summon Me to Redefine the Universe!</b> 🚀  
-<div align="center" style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 20px; border-radius: 15px; box-shadow: 0 0 25px rgba(255, 110, 196, 0.9);">
-  <p>Fueled by code, hackathons, or the art of cosmic creation? Let’s <b>unite our powers</b> and craft a future that dazzles the stars. Summon me, and let’s ignite the extraordinary! ✨</p>
-  <p><code style="background: #0f0f23; padding: 5px; border-radius: 5px; color: #ff6ec4;">#FrontendSorcery #CodeTheCosmos #EternalInnovation</code></p>
+## 📊 <b>GitHub Activity</b> 📊  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GodzK&theme=tokyonight&border_radius=10&hide_border=true&background=1f2532&stroke=00d4ff&ring=ff79c6&fire=00d4ff&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=00d4ff&sideLabels=ff79c6" alt="GitHub Streak" style="box-shadow: 0 0 15px rgba(0, 212, 255, 0.4);" />
+  <p><i>Consistency drives my progress—see it in action.</i></p>
+</div>
+
+---
+
+## 🚀 <b>Collaborate With Me</b> 🚀  
+<div align="center" style="background: #2d2d2d; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
+  <p>Passionate about coding, hackathons, or creating impactful tech content? Let’s <b>connect</b> and build something extraordinary together. Reach out—I’m excited to make it happen! ✨</p>
+  <p><code style="background: #f5f5f5; padding: 5px 10px; border-radius: 5px; color: #00d4ff;">#FrontendExcellence #TechInnovation #CodeWithImpact</code></p>
 </div>
