@@ -7,7 +7,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 
 <!--START_SECTION:waka-->
 ### Scan This
-<img src="" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="./portfolio.png" alt="Kmutt Portfolio" style="height: 100px; width:100px;"/>
 
 
 
