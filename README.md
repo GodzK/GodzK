@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🌠 <b>PK Phakaphol Tcsk</b> | Frontend Sorcerer & Animation Enchanter 🌠</h1>
-  <p><code style="background: linear-gradient(90deg, #ff6ec4, #7873f5); padding: 5px; border-radius: 5px; color: white;">Frontend Trailblazer | Cosmic Storyteller | Hackathon Vanguard</code></p>
+  <h1>🌠 <b>PK Phakaphol Tcsk</b> | Frontend & Animation Enchanter 🌠</h1>
+  <p><code style="background: linear-gradient(90deg, #ff6ec4, #7873f5); padding: 5px; border-radius: 5px; color: white;">Frontend | Blogger | Hackathon Competitor</code></p>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Sorcerer’s Code Dance" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 110, 196, 0.7);" />
   <p><i>Unleashing magic, one line of code at a time.</i></p>
 </div>
@@ -84,15 +84,7 @@ I revel in the electrifying chaos of **hackathons**, where imagination fuses wit
   <a href="https://github.com/GodzK?tab=repositories">  
     <img src="https://custom-icon-badges.demolab.com/github/stars/GodzK?color=ff6ec4&style=for-the-badge&labelColor=7873f5&logo=star" alt="GitHub Stars" />  
   </a>  
-</p>  
-
----
-
-## 🌙 <b>GitHub Celestial Orbit</b> 🌙  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GodzK&theme=nightowl&border_radius=10&hide_border=true&background=1a1a2e&stroke=ff6ec4&ring=7873f5&fire=ff6ec4&currStreakNum=dedede&sideNums=dedede&currStreakLabel=ff6ec4&sideLabels=7873f5" alt="GitHub Streak" style="box-shadow: 0 0 15px rgba(120, 115, 245, 0.7);" />
-  <p><i>My streak blazes across the galaxy—an unstoppable cosmic force!</i></p>
-</div>
+</p> 
 
 ---
 
