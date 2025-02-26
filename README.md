@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🌌 <b>PK Phakaphol Tcsk</b> | Frontend Alchemist & Animation Sorcerer 🌌</h1>
-  <p><code>Frontend Maestro | Tech Storyteller | Hackathon Conqueror</code></p>
-  <img src="https://media.giphy.com/media/3o7TKz9bYXaLrvP8eQ/giphy.gif" width="200" alt="Coding Magic" />
+  <h1>🌌 <b>PK Phakaphol Tcsk</b> | Frontend & Animation Sorcerer 🌌</h1>
+  <p><code>Frontend Developer| Tech Storyteller | Hackathon Competitor</code></p>
+  <img src="[https://media.giphy.com/media/3o7TKz9bYXaLrvP8eQ/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDcycnE5czgzdGtjMDM4aHd1cmQ4bXhhNWoxdnN2M2Vjc2xqZmNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)" width="200" alt="Coding Magic" />
 </div>
 
 ---
