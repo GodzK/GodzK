@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎨 <b>PK Phakaphol Tcsk</b> | Frontend Innovator & Animation Specialist 🎨</h1>
+  <h1>🌟<b>PK Phakaphol Tcsk</b> | Frontend & Animation Specialist 🌟</h1>
   <p><code style="background: #2d2d2d; padding: 5px 10px; border-radius: 5px; color: #00d4ff; font-weight: bold;">Frontend Developer | Content Creator | Hackathon Enthusiast</code></p>
   <img src="https://media.giphy.com/media/iIqu6SyGkf10Y/giphy.gif" width="250" alt="Code in Motion" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.5);" />
   <p><i>Designing the future, one pixel at a time.</i></p>
