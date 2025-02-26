@@ -8,7 +8,7 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
 <!--START_SECTION:waka-->
 ### GitHub Stats ⚡
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzK&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/GodzK)
-
+image:https://wakatime.com/badge/user/984daca2-1327-4d0b-b661-d23dc3c18db1.svg["wakatime", link="https://wakatime.com/@984daca2-1327-4d0b-b661-d23dc3c18db1"]
 [![GodzK wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GodzK)](https://github.com/GodzK/github-readme-stats)
 ---
 ### 📺 Latest Youtube Videos
