@@ -14,14 +14,14 @@ I live for the thrill of **hackathons**—where creativity meets precision, and 
 ---
 
 ## ⚡️ <b>My Superpowers</b> ⚡️  
-- 🎨 <b>Frontend Alchemy</b>: Crafting responsive, pixel-perfect designs with HTML, CSS, and JS  
-- 🌟 <b>Animation Wizardry</b>: Breathing life into UIs with CSS, GSAP, and Three.js  
+- 🎨 <b>Frontend Alchemy</b>: Crafting responsive, pixel-perfect designs with a lot of framework and fundamental skills
+- 🌟 <b>Animation Wizardry</b>: Breathing life into UIs with CSS, GSAP, and Three.js  this is my Best things
 - 💻 <b>Code Symphony</b>: Orchestrating seamless experiences with React and Tailwind  
-- 🏆 <b>Hackathon Hero</b>: Turning ideas into prototypes under pressure  
+- 🏆 <b>Hackathon</b>: Turning ideas into prototypes under pressure  
 
 ---
 
-## 📊 <b>Coding Cosmos</b> 📊  
+## 👨🏻‍💻 <b>Coding Cosmos</b> 👨🏻‍💻  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=dracula&layout=compact&hide_border=true" alt="WakaTime Stats" />
   <p><i>My code flows like a supernova—tracked by WakaTime.</i></p>
