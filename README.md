@@ -6,8 +6,10 @@ Hi My Name Is Pk  im frontend developer Blogger from Borntodev Deinit#2 in i cod
  
 
 <!--START_SECTION:waka-->
-### GitHub Stats ⚡
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzK&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/GodzK)
+### Scan This
+<img src="" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
+
 
 [![GodzK wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GodzK)](https://github.com/GodzK/github-readme-stats)
 ---
