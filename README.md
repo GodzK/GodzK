@@ -39,7 +39,7 @@ I excel in the high-stakes world of **hackathons**, where I transform ideas into
   <p><i>A showcase of design precision and technical finesse.</i></p>
 </div>
 
-#### 🚀 <b>Signature Projects</b>  
+#### 🚀 <b>Projects Clip</b>  
 - **[PyroGuard](https://www.youtube.com/watch?v=cSUpTJ-clrs&t=8s)** – A standout solution from the Change Innovation Competition  
 - **[3D Portfolio Showcase](https://www.youtube.com/watch?v=ML5piOfz_ao)** – A fusion of Three.js, React, and Tailwind CSS  
 - **[Microsoft Ambassador Intro](https://www.youtube.com/watch?v=xr7nUM3XsXg)** – A professional glimpse into my tech journey  
@@ -60,22 +60,6 @@ I excel in the high-stakes world of **hackathons**, where I transform ideas into
   </a>  
   <!-- END YOUTUBE-CARDS -->  
 </div>
-
-### 📡 <b>Social Links</b>  
-<p align="center" style="background: #f5f5f5; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);">
-  <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">  
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcSwl5PU3NUYrGNjUZPLWxg?color=%2300d4ff&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=2d2d2d" alt="YouTube Subscribers" />  
-  </a>  
-  <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">  
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcSwl5PU3NUYrGNjUZPLWxg?color=%23ff79c6&logo=eye&logoColor=white&style=for-the-badge&labelColor=2d2d2d" alt="YouTube Views" />  
-  </a>  
-  <a href="https://github.com/GodzK">  
-    <img src="https://custom-icon-badges.demolab.com/github/followers/GodzK?color=00d4ff&labelColor=2d2d2d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="GitHub Followers" />  
-  </a>  
-  <a href="https://github.com/GodzK?tab=repositories">  
-    <img src="https://custom-icon-badges.demolab.com/github/stars/GodzK?color=ff79c6&style=for-the-badge&labelColor=2d2d2d&logo=star" alt="GitHub Stars" />  
-  </a>  
-</p>
 
 ---
 
