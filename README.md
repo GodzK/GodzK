@@ -61,15 +61,6 @@ I excel in the high-stakes world of **hackathons**, where I transform ideas into
   <!-- END YOUTUBE-CARDS -->  
 </div>
 
----
-
-## 🌐 <b>Let’s Connect</b> 🌐  
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-00d4ff?style=for-the-badge&logo=video&logoColor=white&labelColor=2d2d2d" alt="Subscribe on YouTube" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0, 212, 255, 0.5);" />
-  </a>
-</div>
-
 ### 📡 <b>Social Links</b>  
 <p align="center" style="background: #f5f5f5; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);">
   <a href="https://www.youtube.com/channel/UCcSwl5PU3NUYrGNjUZPLWxg">  
