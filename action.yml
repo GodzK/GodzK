@@ -8,5 +8,5 @@ inputs:
     description: 'GitHub Token for API access'
     required: true
 runs:
-  using: 'python'
-  main: 'main.py'
+  using: 'docker'
+  image: 'Dockerfile'
