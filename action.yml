@@ -1,0 +1,12 @@
+name: WakaTime Stats
+description: This action generates WakaTime stats for your GitHub profile README.
+inputs:
+  WAKATIME_API_KEY:
+    description: 'Your WakaTime API key'
+    required: true
+  GH_TOKEN:
+    description: 'GitHub Token for API access'
+    required: true
+runs:
+  using: 'python'
+  main: 'main.py'
