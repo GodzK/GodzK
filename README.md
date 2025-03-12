@@ -29,6 +29,10 @@ I excel in the high-stakes world of **hackathons**, where I transform ideas into
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=tokyonight&layout=compact&hide_border=true&bg_color=1f2532&title_color=00d4ff&text_color=cdd6f4&icon_color=ff79c6" alt="WakaTime Stats" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.4);" />
   <p><i>Tracking my craft with WakaTime—every second counts.</i></p>
 </div>
+## 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ---
 
