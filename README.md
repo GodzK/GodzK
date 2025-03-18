@@ -63,29 +63,6 @@
     <i>Where code meets art—crafted with precision and passion.</i>
   </p>
 </div>
-
-#### 🌟 <b>Highlighted Works</b>  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
-  <div style="background: #f0f0f0; padding: 20px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);">
-    <a href="https://github.com/yourusername/pyroguard" style="text-decoration: none; color: #00eaff; font-weight: bold; font-size: 1.2em;">
-      PyroGuard
-    </a>
-    <p style="font-family: 'Poppins', sans-serif; color: #2d3748; margin-top: 5px;">A sleek, innovative web app from a hackathon triumph</p>
-  </div>
-  <div style="background: #f0f0f0; padding: 20px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);">
-    <a href="https://github.com/yourusername/3d-portfolio" style="text-decoration: none; color: #00eaff; font-weight: bold; font-size: 1.2em;">
-      3D Portfolio
-    </a>
-    <p style="font-family: 'Poppins', sans-serif; color: #2d3748; margin-top: 5px;">A mesmerizing blend of Three.js and React</p>
-  </div>
-  <div style="background: #f0f0f0; padding: 20px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);">
-    <a href="https://github.com/yourusername/minimal-skill" style="text-decoration: none; color: #00eaff; font-weight: bold; font-size: 1.2em;">
-      Skill Explorer
-    </a>
-    <p style="font-family: 'Poppins', sans-serif; color: #2d3748; margin-top: 5px;">Glassmorphism and Parallax in a minimal UI</p>
-  </div>
-</div>
-
 ---
 
 ## 🎥 <b>Video Highlights</b>  
