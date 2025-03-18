@@ -28,24 +28,22 @@
 
 ---
 
-## ⚡️ <b>My Skill Arsenal</b>  
+## ⚡️ <b>My Skill </b>  
 <div style="background: linear-gradient(135deg, #e0e0e0 0%, #f0f0f0 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15); margin: 25px 0; border: 1px solid rgba(0, 0, 0, 0.05);">
   <ul style="list-style-type: none; padding: 0; font-family: 'Poppins', sans-serif; font-size: 1.2em; color: #2d3748; line-height: 2;">
     <li>🌐 <b>Frontend Mastery</b>: React, Next.js, Tailwind CSS—building responsive, sleek UIs with finesse</li>
     <li>🎥 <b>Animation Expertise</b>: Framer Motion, GSAP, Three.js—adding life to every pixel</li>
     <li>🎨 <b>UI/UX Innovation</b>: Glassmorphism, Parallax, Minimal Design—modern aesthetics meet functionality</li>
-    <li>💾 <b>Backend Basics</b>: Node.js, Express.js—laying the groundwork for full-stack ambitions</li>
     <li>🚀 <b>Creative Problem Solving</b>: Turning complex challenges into elegant solutions</li>
   </ul>
 </div>
 
 ---
 
-## 📊 <b>Coding Pulse</b>  
+## 👨‍💻 <b>Coding Time</b>  
 <div align="center" style="margin: 25px 0;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=b0b8d6&icon_color=ff6bcb" alt="WakaTime Stats" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 234, 255, 0.5);" />
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
-    <i>Every line of code is a step toward greatness—tracked with WakaTime.</i>
   </p>
 </div>
 
