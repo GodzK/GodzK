@@ -46,11 +46,6 @@
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
   </p>
 </div>
-
-## 📉 <b>WakaTime Insights</b>  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🏆 <b>Portfolio Showcase</b>  
