@@ -58,7 +58,7 @@
 ## 🏆 <b>Portfolio Showcase</b>  
 ### <b>Explore My Creations</b>  
 <div align="center" style="margin: 25px 0;">
-  <img src="./portfolio-preview.png" alt="Portfolio Snapshot" width="450" style="border-radius: 25px; box-shadow: 0 10px 40px rgba(0, 234, 255, 0.6);" />
+  <img src="./portfolio.png" alt="Portfolio Snapshot" width="450" style="border-radius: 25px; box-shadow: 0 10px 40px rgba(0, 234, 255, 0.6);" />
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
     <i>Where code meets art—crafted with precision and passion.</i>
   </p>
