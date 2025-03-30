@@ -1,6 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.1);">
   <h1 style="font-family: 'Poppins', sans-serif; font-size: 2.8em; color: #00eaff; text-shadow: 0 0 15px rgba(0, 234, 255, 0.6); margin: 0;">
-    🌌 <b>Phakaphol "PK" Dherachaisuphakij</b> 🌌
+    👑 <b>Phakaphol "PK" Dherachaisuphakij</b> 👑
   </h1>
   <h3 style="font-family: 'Poppins', sans-serif; font-size: 1.5em; color: #b0b8d6; margin: 10px 0; letter-spacing: 1px;">
     Frontend Developer | Animation Enthusiast | UI/UX Designer
