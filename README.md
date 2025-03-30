@@ -8,7 +8,8 @@
   <p style="background: rgba(0, 234, 255, 0.1); padding: 10px 25px; border-radius: 30px; color: #ff6bcb; font-family: 'Courier New', monospace; font-weight: bold; box-shadow: 0 0 15px rgba(255, 107, 203, 0.4); font-size: 1.1em;">
     Crafting Digital Experiences with Code & Creativity
   </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodzK&theme=rust-ferris-dark)](https://git.io/streak-stats)
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodzK&theme=rust-ferris-dark)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/?user=GodzK&theme=rust-ferris-dark&v=1
+)
   <img src="./cyber-penguin.gif" width="280" alt="Cyber Penguin" style="border-radius: 20px; box-shadow: 0 0 25px rgba(0, 234, 255, 0.7); margin: 25px 0;" />
   <p style="font-style: italic; color: #8b95b8; font-family: 'Poppins', sans-serif; font-size: 1em;">
     <i>Coding late into the night: 14:00 - 23:30 | Fuel: ☕ + 🍵 + 💡</i>
