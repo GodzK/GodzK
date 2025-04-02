@@ -9,7 +9,7 @@
     Building Creative and Functional Digital Solutions
   </p>
   <div style="display: flex; justify-content: center; margin: 20px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodzK&theme=radical&hide_border=true&background=0D1117&stroke=00EAFF&ring=FF6BCB&fire=FF6BCB&currStreakNum=B0B8D6&sideNums=B0B8D6&currStreakLabel=00EAFF&sideLabels=00EAFF&dates=B0B8D6" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodzK&theme=radical&hide_border=true&background=0D1117&stroke=00EAFF&ring=FF6BCB&fire=FF6BCB&currStreakNum=B0B8D6&sideNums=B0B8D6&currStreakLabel=00EAFF&sideLabels=00EAFF" alt="GitHub Streak" />
   </div>
   <img src="./cyber-penguin.gif" width="300" alt="Cyber Penguin" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 234, 255, 0.5);" />
   <p style="font-style: italic; color: #8b95b8; font-family: 'Poppins', sans-serif; font-size: 1em; margin-top: 15px;">
