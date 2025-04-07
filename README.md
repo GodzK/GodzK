@@ -2,15 +2,17 @@
   <h1 style="font-family: 'Poppins', sans-serif; font-size: 2.8em; color: #00eaff; text-shadow: 0 0 15px rgba(0, 234, 255, 0.6); margin: 0;">
     👑 <b>Phakaphol "PK" Dherachaisuphakij</b> 👑
   </h1>
-  <h3 style="font-family: 'Poppins', sans-serif; font-size: 1.5em; color: #b0b8d6; margin: 10px 0; letter-spacing: 1px;">
-    Frontend Developer | Animation Enthusiast | UI/UX Designer
+   <h3 style="font-family: 'Poppins', sans-serif; font-size: 1.5em; color: #b0b8d6; margin: 10px 0; letter-spacing: 1px;">
+    Frontend Developer | UI/UX Designer | Tech-Driven Problem Solver
   </h3>
   <p style="background: rgba(0, 234, 255, 0.15); padding: 8px 20px; border-radius: 25px; color: #ff6bcb; font-family: 'Courier New', monospace; font-weight: bold; font-size: 1em;">
-    Building Creative and Functional Digital Solutions
+    Crafting High-Impact Interfaces & Scalable Frontend Architecture
   </p>
-  <div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div style="margin: 30px 0;">
     <img src="https://git-hub-streak-stats.vercel.app?user=GodzK&theme=elegant&hide_border=true&locale=th&date_format=j%20M%5B%20Y%5D&card_width=509" alt="GitHub Streak" />
-
+  </div>
+  <div style="margin-top: 25px;">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,vite,react,nextjs,nuxtjs,tailwind,mui,supabase,postgresql,mysql" alt="Tech Stack" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 234, 255, 0.4);" />
   </div>
   <img src="./cyber-penguin.gif" width="300" alt="Cyber Penguin" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 234, 255, 0.5);" />
   <p style="font-style: italic; color: #8b95b8; font-family: 'Poppins', sans-serif; font-size: 1em; margin-top: 15px;">
