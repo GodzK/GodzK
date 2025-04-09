@@ -48,6 +48,8 @@
 
 ## ⏱️ <b>Development Activity</b>
 <div align="center" style="margin: 40px 0;">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=b0b8d6&icon_color=ff6bcb" alt="WakaTime Stats" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 234, 255, 0.5);" />
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
     <i>Consistently improving through active coding and learning</i>
