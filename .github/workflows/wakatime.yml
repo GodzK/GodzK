@@ -1,26 +1,75 @@
-name: WakaTime Readme Stats
+name: WakaTime and Streak Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # อัปเดตทุก 6 ชั่วโมง
+    - cron: '0 */6 * * *'  # ทุก 6 ชั่วโมง
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Initialize or update reward.json
+        run: |
+          if [ ! -f reward.json ]; then
+            echo '{"streak": 0, "gold": 0}' > reward.json
+          fi
+          node -e "
+            let playerData = require('./reward.json');
+            playerData.streak++;
+            playerData.gold += 10;
+            require('fs').writeFileSync('reward.json', JSON.stringify(playerData, null, 2));
+          "
+          cat reward.json  # Debug
+
+      - name: Ensure sections exist in README.md
+        run: |
+          if ! grep -q "<!--START_SECTION:waka-->" README.md; then
+            echo "## My WakaTime Stats" >> README.md
+            echo "<!--START_SECTION:waka-->" >> README.md
+            echo "<!--END_SECTION:waka-->" >> README.md
+          fi
+          if ! grep -q "## My Game Streak" README.md; then
+            echo "## My Game Streak" >> README.md
+            echo "Streak: 0" >> README.md
+            echo "Gold: 0" >> README.md
+          fi
+          cat README.md  # Debug
 
       - name: Update WakaTime stats
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: "waka_f7505e4e-0079-478c-9b1f-c5f46c887ddf"  # API key ของคุณแบบ hardcode
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SECTION_NAME: "waka"
-          SHOW_TITLE: "true"
-          TIME_RANGE: "last_7_days"
-          LANG_COUNT: 5
-          SHOW_TIME: "true"
-          SHOW_TOTAL: "true"
-          COMMIT_MESSAGE: "Updated waka stats"
+          COMMIT_MESSAGE: "Updated WakaTime and Streak stats for GodzK"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          TIME_RANGE: "last_7_days"  # ดึงข้อมูล 7 วันล่าสุด
+
+      - name: Update README with streak
+        run: |
+          # อัปเดต Streak และ Gold
+          sed -i "/## My Game Streak/,+2 s/Streak: .*/Streak: $(jq .streak reward.json)/" README.md
+          sed -i "/## My Game Streak/,+2 s/Gold: .*/Gold: $(jq .gold reward.json)/" README.md
+          cat README.md  # Debug
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GodzK"
+          git config --global user.email "${{ secrets.EMAIL }}"
+          git add reward.json README.md
+          git commit -m "Updated stats - $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git pull --rebase origin main  # แก้ conflict
+          git push
