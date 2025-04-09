@@ -1,12 +1,12 @@
-name: WakaTime Stats
-description: This action generates WakaTime stats for your GitHub profile README.
+name: "GodzK Custom Action"
+description: "A custom action for updating stats"
 inputs:
   WAKATIME_API_KEY:
-    description: 'Your WakaTime API key'
+    description: "WakaTime API Key"
     required: true
   GH_TOKEN:
-    description: 'GitHub Token for API access'
+    description: "GitHub Token"
     required: true
 runs:
-  using: 'docker'
-  image: 'Dockerfile'
+  using: "docker"
+  image: "Dockerfile"
