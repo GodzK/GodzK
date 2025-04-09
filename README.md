@@ -102,3 +102,9 @@ Text         29 mins         ▓░░░░░░░░░░░░░░░░
     #FrontendDevelopment #CreativeCoding #OpenToWork
   </p>
 </div>
+## My Game Streak
+Streak: 2
+Gold: 20
+## My Items
+Sword: 1
+Shield: 1
