@@ -48,17 +48,6 @@
 
 ## ⏱️ <b>Development Activity</b>
 <div align="center" style="margin: 40px 0;">
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   9 hrs 9 mins    █████████████▓░░░░░░░░░░░   55.32 %
-CSS          3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-HTML         2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-JSON         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Text         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-```
-
-<!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=b0b8d6&icon_color=ff6bcb" alt="WakaTime Stats" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 234, 255, 0.5);" />
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
     <i>Consistently improving through active coding and learning</i>
@@ -74,21 +63,6 @@ Text         29 mins         ▓░░░░░░░░░░░░░░░░
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
     <i>Projects reflecting my dedication to coding and design</i>
   </p>
-</div>
-
----
-
-## 📽️ <b>Video Demonstrations</b>
-<div align="center" style="background: linear-gradient(135deg, #1a1f29 0%, #0d1117 100%); padding: 30px; border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 234, 255, 0.4); margin: 40px 0;">
-  <a href="https://www.youtube.com/watch?v=cSUpTJ-clrs&t=8s">
-    <img src="https://ytcards.demolab.com/?id=cSUpTJ-clrs&t=3s&title=PyroGuard+Demo&lang=en&background_color=%231a1f29&title_color=%2300eaff&stats_color=%23b0b8d6&max_title_lines=1&width=250&border_radius=15" alt="PyroGuard Demo" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=ML5piOfz_ao">
-    <img src="https://ytcards.demolab.com/?id=ML5piOfz_ao&t=3s&title=3D+Portfolio+Walkthrough&lang=en&background_color=%231a1f29&title_color=%2300eaff&stats_color=%23b0b8d6&max_title_lines=1&width=250&border_radius=15" alt="3D Portfolio" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=xr7nUM3XsXg">
-    <img src="https://ytcards.demolab.com/?id=xr7nUM3XsXg&t=3s&title=Tech+Journey+Intro&lang=en&background_color=%231a1f29&title_color=%2300eaff&stats_color=%23b0b8d6&max_title_lines=1&width=250&border_radius=15" alt="Tech Intro" style="margin: 10px;" />
-  </a>
 </div>
 
 ---
