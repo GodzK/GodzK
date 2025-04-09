@@ -1,0 +1,26 @@
+name: Daily item Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # เที่ยงคืน UTC (ปรับได้ตามโซนเวลา)
+  workflow_dispatch: # เพิ่มเพื่อรัน manual ได้
+
+jobs:
+  update-item:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update item file
+        run: |
+          # สร้างหรืออัปเดตไฟล์ item.txt
+          echo "Last updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > item.txt
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GodzK"
+          git config --global user.email "godzk25@gmail.com"
+          git add item.txt
+          git commit -m "Daily item update - $(date -u +'%Y-%m-%d')"
+          git push
