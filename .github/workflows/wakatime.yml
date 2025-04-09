@@ -17,10 +17,18 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Fetch and update reward.json
+      - name: Fetch and validate reward.json
         run: |
           curl -H "Authorization: token ${{ secrets.PAT }}" \
-          https://raw.githubusercontent.com/GodzK/Streak-Farmer-RPG/main/reward.json > reward.json || echo '{"streak": 0, "gold": 0}' > reward.json
+          https://raw.githubusercontent.com/GodzK/Streak-Farmer-RPG/main/reward.json > reward.json
+          if [ $? -ne 0 ] || ! jq -e . reward.json >/dev/null 2>&1; then
+            echo "Failed to fetch valid JSON, using default"
+            echo '{"streak": 0, "gold": 0}' > reward.json
+          fi
+          cat reward.json  # แสดงเนื้อหาเพื่อ debug
+
+      - name: Update streak data
+        run: |
           node -e "
             let playerData = require('./reward.json');
             playerData.streak++;
