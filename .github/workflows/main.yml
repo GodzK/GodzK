@@ -45,32 +45,20 @@ jobs:
           "
           cat item.json  # Debug
 
-      - name: Ensure sections exist in README.md
+      - name: Generate README.md from template
         run: |
-          if ! grep -q "## My Game Streak" README.md; then
-            echo "## My Game Streak" >> README.md
-            echo "Streak: 0" >> README.md
-            echo "Gold: 0" >> README.md
-          fi
-          if ! grep -q "## My Items" README.md; then
-            echo "## My Items" >> README.md
-            echo "Sword: 0" >> README.md
-            echo "Shield: 0" >> README.md
-          fi
-          cat README.md  # Debug
-
-      - name: Update README with streak and items
-        run: |
-          # อัปเดต Streak และ Gold
           STREAK=$(jq .streak reward.json)
           GOLD=$(jq .gold reward.json)
-          sed -i "s/Streak: [0-9]*/Streak: $STREAK/" README.md
-          sed -i "s/Gold: [0-9]*/Gold: $GOLD/" README.md
-          # อัปเดต Items
           SWORD=$(jq .items.sword item.json)
           SHIELD=$(jq .items.shield item.json)
-          sed -i "s/Sword: [0-9]*/Sword: $SWORD/" README.md
-          sed -i "s/Shield: [0-9]*/Shield: $SHIELD/" README.md
+
+          cat README.template.md \
+          | sed "s/{{streak}}/$STREAK/" \
+          | sed "s/{{gold}}/$GOLD/" \
+          | sed "s/{{sword}}/$SWORD/" \
+          | sed "s/{{shield}}/$SHIELD/" \
+          > README.md
+
           cat README.md  # Debug
 
       - name: Commit and push changes
@@ -79,5 +67,5 @@ jobs:
           git config --global user.email "${{ secrets.EMAIL }}"
           git add reward.json item.json README.md
           git commit -m "Updated stats - $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-          git pull --rebase origin main  # แก้ conflict
+          git pull --rebase origin main
           git push
