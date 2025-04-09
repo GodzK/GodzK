@@ -103,8 +103,8 @@ Text         29 mins         ▓░░░░░░░░░░░░░░░░
   </p>
 </div>
 ## My Game Streak
-Streak: 2
-Gold: 20
+Streak: 3
+Gold: 30
 ## My Items
 Sword: 1
-Shield: 1
+Shield: 2
