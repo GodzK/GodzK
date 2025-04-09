@@ -49,6 +49,15 @@
 ## ⏱️ <b>Development Activity</b>
 <div align="center" style="margin: 40px 0;">
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   9 hrs 9 mins    █████████████▓░░░░░░░░░░░   55.32 %
+CSS          3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+HTML         2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+JSON         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Text         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+```
+
 <!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=b0b8d6&icon_color=ff6bcb" alt="WakaTime Stats" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 234, 255, 0.5);" />
   <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
