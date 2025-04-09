@@ -2,18 +2,18 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # อัปเดตทุก 6 ชั่วโมง
-  workflow_dispatch:       # สามารถรันได้เองผ่าน GitHub Actions UI
+    - cron: '0 */6 * * *'  # อัปเดตทุก 6 ชั่วโมง (แก้จาก */3 เป็น */6 เพื่อให้ถูกต้องตาม cron syntax)
+  workflow_dispatch:       # รัน manual ได้
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # อัปเดตเป็น v4 ซึ่งเป็นเวอร์ชันล่าสุด
 
       - name: Update WakaTime stats
-        uses: GodzK/GodzK@main
+        uses: athul/waka-readme@master  # ใช้ action ที่มีอยู่จริงจาก athul
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
