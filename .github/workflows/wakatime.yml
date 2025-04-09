@@ -2,7 +2,7 @@ name: WakaTime and Streak Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'  # ทุก 6 ชั่วโมง
   workflow_dispatch:
 
 jobs:
@@ -20,16 +20,12 @@ jobs:
       - name: Install jq
         run: sudo apt-get install jq
 
-      - name: Fetch and validate reward.json
+      - name: Initialize or update reward.json
         run: |
-          # ดึง reward.json ถ้ามี ถ้าไม่มีหรือไม่ถูกต้องให้ใช้ default
-          curl -H "Authorization: token ${{ secrets.PAT }}" \
-            https://raw.githubusercontent.com/GodzK/Streak-Farmer-RPG/main/reward.json -o reward.json
-          if [ $? -ne 0 ] || ! jq -e . reward.json >/dev/null 2>&1; then
-            echo "Failed to fetch valid JSON from Streak-Farmer-RPG, using default"
+          if [ ! -f reward.json ]; then
             echo '{"streak": 0, "gold": 0}' > reward.json
           fi
-          cat reward.json  # แสดงเนื้อหาเพื่อ debug
+          cat reward.json  # Debug
 
       - name: Update streak data
         run: |
@@ -40,20 +36,31 @@ jobs:
             require('fs').writeFileSync('reward.json', JSON.stringify(playerData, null, 2));
           "
 
+      - name: Prepare README with WakaTime section
+        run: |
+          echo "# My Profile" > README.md
+          echo "## My WakaTime Stats" >> README.md
+          echo "<!--START_SECTION:waka-->" >> README.md
+          echo "<!--END_SECTION:waka-->" >> README.md
+          echo "## My Game Streak" >> README.md
+          echo "Streak: $(jq .streak reward.json)" >> README.md
+          echo "Gold: $(jq .gold reward.json)" >> README.md
+
       - name: Update WakaTime stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Updated WakaTime stats"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ใช้ token จาก GitHub Actions
+          COMMIT_MESSAGE: "Updated WakaTime and Streak stats"
+          SHOW_LINES_OF_CODE: "True"  # แสดงจำนวนบรรทัดโค้ด
+          SHOW_LANGUAGE: "True"      # แสดงภาษาที่ใช้
+          SHOW_TOTAL_CODE_TIME: "True"  # แสดงเวลารวม
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          echo "## My Game Streak" >> README.md
-          echo "Streak: $(jq .streak reward.json)" >> README.md
-          echo "Gold: $(jq .gold reward.json)" >> README.md
           git config --global user.name "GodzK"
           git config --global user.email "${{ secrets.EMAIL }}"
           git add reward.json README.md
-          git commit -m "Updated stats - $(date -u +'%Y-%m-%d')"
+          git commit -m "Updated stats - $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git pull --rebase origin main  # ดึงและรวมการเปลี่ยนแปลงจาก remote
           git push
