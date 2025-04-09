@@ -17,12 +17,16 @@ jobs:
         with:
           node-version: '16'
 
+      - name: Install jq
+        run: sudo apt-get install jq
+
       - name: Fetch and validate reward.json
         run: |
+          # ดึง reward.json ถ้ามี ถ้าไม่มีหรือไม่ถูกต้องให้ใช้ default
           curl -H "Authorization: token ${{ secrets.PAT }}" \
-          https://raw.githubusercontent.com/GodzK/Streak-Farmer-RPG/main/reward.json > reward.json
+            https://raw.githubusercontent.com/GodzK/Streak-Farmer-RPG/main/reward.json -o reward.json
           if [ $? -ne 0 ] || ! jq -e . reward.json >/dev/null 2>&1; then
-            echo "Failed to fetch valid JSON, using default"
+            echo "Failed to fetch valid JSON from Streak-Farmer-RPG, using default"
             echo '{"streak": 0, "gold": 0}' > reward.json
           fi
           cat reward.json  # แสดงเนื้อหาเพื่อ debug
@@ -53,6 +57,3 @@ jobs:
           git add reward.json README.md
           git commit -m "Updated stats - $(date -u +'%Y-%m-%d')"
           git push
-
-      - name: Install jq
-        run: sudo apt-get install jq
