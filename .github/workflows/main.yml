@@ -2,12 +2,13 @@ name: Streak and Items Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # ทุก 6 ชั่วโมง
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # รันทุก 6 ชั่วโมง
+  workflow_dispatch:       # สามารถกดรันเองได้จากหน้า GitHub
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,7 +19,7 @@ jobs:
           node-version: '16'
 
       - name: Install jq
-        run: sudo apt-get install jq
+        run: sudo apt-get install -y jq
 
       - name: Initialize or update reward.json
         run: |
@@ -31,7 +32,7 @@ jobs:
             playerData.gold += 10;
             require('fs').writeFileSync('reward.json', JSON.stringify(playerData, null, 2));
           "
-          cat reward.json  # Debug
+          cat reward.json  # Debug log
 
       - name: Initialize or update item.json
         run: |
@@ -40,16 +41,15 @@ jobs:
           fi
           node -e "
             let itemData = require('./item.json');
-            itemData.items.shield++;  // เพิ่ม shield เป็นตัวอย่าง
+            itemData.items.shield++;  // เพิ่ม shield
             require('fs').writeFileSync('item.json', JSON.stringify(itemData, null, 2));
           "
-          cat item.json  # Debug
+          cat item.json  # Debug log
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GodzK"
           git config --global user.email "godzk25@gmail.com"
-          git pull --rebase origin main
           git add reward.json item.json
-          git commit -m "Streak and Items Update - $(date -u +'%Y-%m-%d %H:%M:%S')" --allow-empty
+          git commit -m "Streak and Items Update - $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
