@@ -48,8 +48,8 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name "GodzK"
-          git config --global user.email "${{ secrets.EMAIL }}"
-          git add reward.json item.json
-          git commit -m "Updated stats - $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git config --global user.email "godzk25@gmail.com"
           git pull --rebase origin main
+          git add reward.json item.json
+          git commit -m "Streak and Items Update - $(date -u +'%Y-%m-%d %H:%M:%S')" --allow-empty
           git push
