@@ -58,32 +58,6 @@
 
 ---
 
-## 🏅 <b>Portfolio Highlights</b>
-### <b>Discover My Work</b>
-<div align="center" style="margin: 40px 0;">
-  <img src="./portfolio.png" alt="Portfolio Snapshot" width="400" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 234, 255, 0.6);" />
-  <p style="font-family: 'Poppins', sans-serif; font-style: italic; color: #8b95b8; margin-top: 15px;">
-    <i>Projects reflecting my dedication to coding and design</i>
-  </p>
-</div>
-
----
-
-## 📽️ <b>Video Demonstrations</b>
-<div align="center" style="background: linear-gradient(135deg, #1a1f29 0%, #0d1117 100%); padding: 30px; border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 234, 255, 0.4); margin: 40px 0;">
-  <a href="https://www.youtube.com/watch?v=cSUpTJ-clrs&t=8s">
-    <img src="https://ytcards.demolab.com/?id=cSUpTJ-clrs&t=3s&title=PyroGuard+Demo&lang=en&background_color=%231a1f29&title_color=%2300eaff&stats_color=%23b0b8d6&max_title_lines=1&width=250&border_radius=15" alt="PyroGuard Demo" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=ML5piOfz_ao">
-    <img src="https://ytcards.demolab.com/?id=ML5piOfz_ao&t=3s&title=3D+Portfolio+Walkthrough&lang=en&background_color=%231a1f29&title_color=%2300eaff&stats_color=%23b0b8d6&max_title_lines=1&width=250&border_radius=15" alt="3D Portfolio" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=xr7nUM3XsXg">
-    <img src="https://ytcards.demolab.com/?id=xr7nUM3XsXg&t=3s&title=Tech+Journey+Intro&lang=en&background_color=%231a1f29&title_color=%2300eaff&stats_color=%23b0b8d6&max_title_lines=1&width=250&border_radius=15" alt="Tech Intro" style="margin: 10px;" />
-  </a>
-</div>
-
----
-
 ## 🤝 <b>Let’s Collaborate</b>
 <div align="center" style="background: linear-gradient(135deg, #1a1f29 0%, #0d1117 100%); padding: 40px; border-radius: 25px; box-shadow: 0 15px 40px rgba(0, 234, 255, 0.5); margin: 40px 0; border: 1px solid rgba(255, 255, 255, 0.1);">
   <p style="font-family: 'Poppins', sans-serif; font-size: 1.3em; color: #b0b8d6; line-height: 1.7;">
