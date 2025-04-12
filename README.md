@@ -115,7 +115,7 @@ Looking for a dedicated developer to elevate your web project? I offer expertise
 <details>
   <summary>📬 How to Reach Me</summary>
   - **Email**: godzk25@gmail.com (Response within 24 hours)  
-  - **LinkedIn**: [phakaphol](https://linkedin.com/in/phakaphol) for professional networking  
+  - **LinkedIn**: [phakaphol](https://www.linkedin.com/in/phakaphol-dherachaisuprakij-1092ab256/) for professional networking  
   - **Portfolio**: [godzk.dev](https://kmutt-phakaphol.vercel.app/) for more projects and insights
 </details>
 
