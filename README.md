@@ -95,10 +95,7 @@ With a commitment to continuous learning, I’m expanding my proficiency in full
 
 <details>
   <summary>📈 Weekly Coding Breakdown</summary>
-  - **JavaScript/TypeScript**: 40%  
-  - **React/Next.js**: 30%  
-  - **UI/UX Design (Figma)**: 20%  
-  - **Others (Python, AWS)**: 10%
+  im focusing on my all around skill i wil learn all thing as much as possible
 </details>
 
 ---
