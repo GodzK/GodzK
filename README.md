@@ -65,7 +65,7 @@ With a commitment to continuous learning, I’m expanding my proficiency in full
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Portfolio** | A dynamic personal portfolio with animations and accessibility | React, Sass,lazy-load, Framer Motion | [Live](https://kmutt-phakaphol.vercel.app/) |
-| **PkFlix Personal Series Collection** | Scalable admin panel with real-time analytics | Next.js, TypeScript, PureCss | [Live](https://github.com/GodzK/ecommerce-dashboard) |
+| **PkFlix Personal Series Collection** | Scalable admin panel with real-time analytics | Next.js, TypeScript, PureCss | [Live](https://pk-flix.vercel.app/) |
 | **Streak Farmer RPG GAME** | Collaborative task management app with smooth UX | Javascript , phaser, Electron | [GitHub](https://github.com/GodzK/Streak-Farmer-RPG) |
 
 > **Highlight**: Portfolio v2 achieved 100+ stars on GitHub within a month of launch.
