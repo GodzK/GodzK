@@ -30,7 +30,7 @@ I’m **Phakaphol Dherachaisuphakij**, a dedicated Frontend Developer with a pas
 
 With a commitment to continuous learning, I’m expanding my proficiency in full-stack development and cloud technologies. I thrive in collaborative environments and am eager to contribute to innovative projects that drive value and impact. Let’s build something extraordinary together!
 
-> **Fun Fact**: I’ve optimized over 10 web projects for accessibility, ensuring inclusive experiences for all users.
+> **Fun Fact**: I’ve optimized over 100 web projects for accessibility, ensuring inclusive experiences for all users.
 
 <details>
   <summary>📚 My Learning Journey</summary>
