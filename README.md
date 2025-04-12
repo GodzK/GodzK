@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GodzK"><img src="https://github-readme-stats.vercel.app/api?username=GodzK&show_icons=true&theme=transparent&hide_border=true&title_color=00eaff&text_color=d4e4ff&icon_color=ff6bcb&bg_color=00000000" alt="GitHub Stats"></a>
   <a href="https://github.com/GodzK"><img src="https://git-hub-streak-stats.vercel.app?user=GodzK&theme=transparent&hide_border=true&locale=th&date_format=j%20M%5B%20Y%5D&card_width=509&background=00000000&fire=ff6bcb&ring=00eaff&currStreakNum=d4e4ff&sideNums=d4e4ff&currStreakLabel=00eaff&sideLabels=d4e4ff" alt="GitHub Streak"></a>
 </p>
 
