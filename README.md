@@ -48,6 +48,7 @@
 
 ## ⏱️ <b>Development Activity</b>
 <div align="center" style="margin: 40px 0;">
+  [![wakatime](https://wakatime.com/badge/user/984daca2-1327-4d0b-b661-d23dc3c18db1.svg)](https://wakatime.com/@984daca2-1327-4d0b-b661-d23dc3c18db1)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodzK&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=b0b8d6&icon_color=ff6bcb" alt="WakaTime Stats" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 234, 255, 0.5);" />
