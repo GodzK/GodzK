@@ -84,23 +84,9 @@ I’m **Phakaphol Dherachaisuphakij**, a dedicated Frontend Developer with a pas
 ---
 
 ## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodzK&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodzK&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodzK&theme=react-dark&hide_border=true&color=00eaff&line=ff6bcb&point=d4e4ff&area=true" alt="GitHub Activity Graph">
 </p>
-
-<p align="center">
-  <img src="https://github.com/GodzK/GodzK/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
 ---
 
 ## 📈 WakaTime Stats
@@ -119,15 +105,6 @@ I’m **Phakaphol Dherachaisuphakij**, a dedicated Frontend Developer with a pas
   <summary>📊 Weekly Coding Breakdown</summary>
   I'm focusing on my all-around skills. I will learn all things as much as possible.
 </details>
-
----
-
-## ✨ Custom Quote
-
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?quote=Crafting%20the%20future%20of%20the%20web%2C%20one%20line%20of%20code%20at%20a%20time.&author=Phakaphol&theme=dracula&font=Georgia" alt="Custom Quote" />
-</p>
-
 ---
 
 ## 🚀 Let’s Collaborate
