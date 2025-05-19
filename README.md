@@ -1,17 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👑+Phakaphol+Dherachaisuphakij+👑;Frontend+Developer+%7C+UI%2FUX+Designer+%7C+Web+Innovator;✨+Crafting+Digital+Magic+with+Code+✨&center=true&width=700&height=45&font=Fira%20Code&pause=1000&color=00EFFF&vCenter=true&size=25" alt="Typing SVG">
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nuxtjs,tailwind,mui,python,java,go,mysql,figma,aws" alt="Tech Stack">
-</p>
 
 <p align="center">
   <a href="https://github.com/GodzK">
     <img src="https://git-hub-streak-stats.vercel.app?user=GodzK&theme=transparent&hide_border=true&background=00000000&fire=ff6bcb&ring=00eaff&currStreakNum=d4e4ff&currStreakLabel=00eaff&sideNums=d4e4ff&sideLabels=d4e4ff" alt="GitHub Streak">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nuxtjs,tailwind,mui,python,java,go,mysql,figma,aws" alt="Tech Stack">
+</p>
 <p align="center">
   <em>🚀 Open for Collaboration | ⏰ Available: 14:00–23:30 ICT | Let’s Build Something Iconic ✨</em>
 </p>
