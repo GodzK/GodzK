@@ -65,19 +65,16 @@ I'm **Phakaphol Dherachaisuphakij**, a passionate **Frontend Developer** and **U
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://your-image-url.com/devinitport.png" width="100%" style="border-radius: 8px;"><br>
       <strong>BorntoDev Devinit</strong><br>
       <em>Frontend Developer & Writer</em><br>
       Skills: React, GSAP, CSS
     </td>
     <td align="center" width="300">
-      <img src="https://your-image-url.com/tpr.png" width="100%" style="border-radius: 8px;"><br>
-      <strong>TuePunRak 18th</strong><br>
-      <em>Volunteer English Teacher</em><br>
-      Skills: Leadership, Communication
+      <strong>SCB Bank</strong><br>
+      <em>Automate & Manual Tester , Quality Assurance</em><br>
+      Skills: Leadership, Communication , Cypress , robot framework , Python ,
     </td>
     <td align="center" width="300">
-      <img src="https://your-image-url.com/iot1.png" width="100%" style="border-radius: 8px;"><br>
       <strong>IoT Hackathon</strong><br>
       <em>AI + IoT App using YOLO</em><br>
       Skills: React, YOLO, Teamwork
