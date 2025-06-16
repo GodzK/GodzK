@@ -46,16 +46,7 @@ I'm **Phakaphol Dherachaisuphakij**, a passionate **Frontend Developer** and **U
 
 - 📘 **2024** – Mastered React, Next.js, Tailwind  
 - ☁️ **2025** – Diving deep into AWS, GraphQL  
-- 🧪 **Now** – UI testing + design systems in Figma  
-</details>
-
----
-<details>
-  <summary>🎓 <strong>View My Certifications</strong></summary>
-
-- 🥇 React Professional – freeCodeCamp (2024)  
-- ☁️ AWS Cloud Practitioner – AWS (2025)  
-- 🎨 UI/UX Fundamentals – Coursera (2024)  
+- 🧪 **Now** – UI testing + Backend + design systems in Figma  
 </details>
 
 ---
