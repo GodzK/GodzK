@@ -78,10 +78,6 @@ I'm **Phakaphol Dherachaisuphakij**, a passionate **Frontend Developer** and **U
 ## 📊 GitHub & WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodzK&theme=react-dark&hide_border=true&color=00eaff&line=ff6bcb&point=d4e4ff&area=true" alt="GitHub Activity Graph">
-</p>
-
-<p align="center">
   <a href="https://wakatime.com/@984daca2-1327-4d0b-b661-d23dc3c18db1">
     <img src="https://wakatime.com/badge/user/984daca2-1327-4d0b-b661-d23dc3c18db1.svg" alt="WakaTime Stats">
   </a>
