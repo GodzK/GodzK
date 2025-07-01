@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00EAFF&center=true&vCenter=true&width=600&lines=Phakaphol+Dherachaisuphakij;UI/UX+Designer;Quality+Assurance+(Automate tester)" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00EAFF&center=true&vCenter=true&width=600&lines=Phakaphol+Dherachaisuphakij;UI/UX ;Quality+Assurance+(Automate tester)" alt="Typing Banner" />
 </p>
 <p align="center">
   <a href="https://github.com/GodzK">
