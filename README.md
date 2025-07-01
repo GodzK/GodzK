@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,tailwind,mui,figma,css,html,aws,nodejs,python,go,mysql&perline=8" alt="Tech Stack" style="filter: drop-shadow(0 0 10px #00EAFF);">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,tailwind,mui,figma,css,html,aws,nodejs,python,go,java,c#mysql&perline=8" alt="Tech Stack" style="filter: drop-shadow(0 0 10px #00EAFF);">
 </p>
 <p align="center">
   <em>🚀 Open for Collaboration | ⏰ Available: 14:00–23:30 ICT | Let’s Build Something Iconic ✨</em>
