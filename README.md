@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00EAFF&center=true&vCenter=true&width=800&lines=Phakaphol+Dherachaisuphakij;Frontend+Architect+%7C+UI%2FUX+Engineer+%7C+Animation+Technologist" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00EAFF&center=true&vCenter=true&width=800&lines=Phakaphol+Dherachaisuphakij;Frontend+%7C+Ux/Ui Designer+%7C+Quality Assurance" alt="Typing SVG">
 </p>
 <p align="center">
   <a href="https://github.com/GodzK">
