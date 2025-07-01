@@ -119,7 +119,6 @@ Ready to take your digital experience to the next level?
   </a>
 </p>
 
-<details>
   <summary>📬 Contact Info</summary>
 
 - 📧 **Email**: godzk25@gmail.com  
@@ -127,7 +126,7 @@ Ready to take your digital experience to the next level?
 - 🌐 **Portfolio**: [godzk.dev](https://kmutt-phakaphol.vercel.app/)  
 - 📸 **Instagram**: [@pk._tcsk](https://www.instagram.com/pk._tcsk/)  
 
-</details>
+
 ---
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GodzK.GodzK" alt="Visitor Count">
