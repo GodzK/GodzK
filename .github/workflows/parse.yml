@@ -1,0 +1,33 @@
+name: Parse Message
+
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: 'ข้อความที่จะ parse'
+        required: true
+
+env:
+  LINE_TOKEN: ${{ secrets.LINE_TOKEN }}
+  USER_ID: ${{ secrets.USER_ID }}
+
+jobs:
+  parse-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install dependencies
+        run: npm install axios
+      - name: Run parse.js
+        run: node parse.js "${{ github.event.inputs.message }}"
+      - name: Commit updated todolist.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add todolist.json
+          git commit -m "Update todolist"
+          git push
