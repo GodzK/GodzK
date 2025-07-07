@@ -5,7 +5,7 @@ const LINE_TOKEN = process.env.LINE_TOKEN;
 const WEATHER_KEY = process.env.WEATHER_KEY;
 
 async function getWeather() {
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=Bangkok&appid=${WEATHER_KEY}&units=metric&lang=th`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=Bangkok&appid=45bba3c0-5b02-11f0-80b9-0242ac130006-45bba74e-5b02-11f0-80b9-0242ac130006&units=metric&lang=th`;
   const res = await axios.get(url);
   const w = res.data.weather[0].description;
   const temp = res.data.main.temp;
