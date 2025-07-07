@@ -2,7 +2,7 @@ name: Daily Reminder
 
 on:
   schedule:
-    - cron: '0 7 * * *' # ทุกวันตอน 7 โมงเช้า
+    - cron: '30 7 * * *' # ทุกวันตอน 7 โมงครึ่ง
 
 env:
   LINE_TOKEN: ${{ secrets.LINE_TOKEN }}
