@@ -36,6 +36,7 @@
 > 🎨 *"Design like an artist, develop like an engineer."*
 
 I'm **Phakaphol Dherachaisuphakij**, a passionate **Frontend Developer** and **UI/UX Designer** who brings ideas to life through **modern web technologies**.
+I'm a 2nd-year IT student at SIT KMUTT.
 
 - 🧠 Blending creativity + logic  
 - 🚀 Focused on performance & accessibility  
