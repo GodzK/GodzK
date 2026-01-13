@@ -3,9 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00EAFF&center=true&vCenter=true&width=600&lines=Phakaphol+Dherachaisuphakij;UI/UX+Designer;Quality+Assurance+(Automate+tester)" alt="Typing Banner" />
 </p>
 <p align="center">
-  <a href="https://github.com/GodzK">
-    <img src="https://git-hub-streak-stats.vercel.app?user=GodzK&theme=transparent&hide_border=true&background=00000000&fire=ff6bcb&ring=00eaff&currStreakNum=d4e4ff&currStreakLabel=00eaff&sideNums=d4e4ff&sideLabels=d4e4ff" alt="GitHub Streak">
-  </a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@GodzK/7e2420d9-48b2-48f7-bb65-e61ca370d042.png" /></a>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,tailwind,mui,figma,css,html,aws,nodejs,python,go,java,mysql&perline=8" alt="Tech Stack" style="filter: drop-shadow(0 0 10px #00EAFF);">
