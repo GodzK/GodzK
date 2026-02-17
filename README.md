@@ -1,7 +1,46 @@
 
 <p align="center">
 </p>
-<p align="center">
+<p align="center"># Phakaphol Dherachaisuphakij – Frontend Developer
+
+## About Me
+I am a Frontend Developer with 2+ years of experience building high-performance, scalable, and interactive web applications.  
+Specialized in **React, Next.js, Tailwind CSS, GSAP, and TypeScript** with a focus on UI/UX, accessibility, and responsive design.
+
+I have delivered production-ready projects for multiple domains, including:
+- **GTA 6 Clone** – Cinematic scroll-driven website with GSAP animations
+- **CogniSync** – AI-powered platform supporting neurodiverse users
+- **PKFLIX** – Full-stack entertainment platform with Supabase
+- **PK Shop** – Ecommerce platform with React, Node.js, MongoDB
+
+Core Skills: React • Next.js • Tailwind • GSAP • TypeScript • Node.js • REST API • UI/UX
+
+Portfolio: [https://phakaphol-gta6-clone.vercel.app/](https://phakaphol-gta6-clone.vercel.app/)
+
+---
+
+## Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| GTA 6 Clone | React, Tailwind, GSAP | Cinematic scroll-driven website |
+| CogniSync | React, Node.js, LLM | AI platform for neurodiverse users |
+| PKFLIX | React, Supabase | Streaming platform with dynamic UI |
+| PK Shop | React, Node.js, MongoDB | Full-stack ecommerce app |
+
+---
+
+## Contact
+
+- Email: godzk25@gmail.com  
+- LinkedIn: [phakaphol](https://linkedin.com/in/phakaphol)  
+- GitHub: [GodzK](https://github.com/GodzK)  
+- Portfolio: [godzk.dev](https://kmutt-phakaphol.vercel.app/)
+
+---
+
+### Stats (Optional)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodzK&show_icons=true&theme=dark)
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,tailwind,mui,figma,css,html,aws,nodejs,python,go,java,mysql&perline=8" alt="Tech Stack" style="filter: drop-shadow(0 0 10px #00EAFF);">
 </p>
 <p align="center">
