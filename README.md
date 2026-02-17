@@ -2,9 +2,6 @@
 <p align="center">
 </p>
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@GodzK/7e2420d9-48b2-48f7-bb65-e61ca370d042.png" /></a>
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,tailwind,mui,figma,css,html,aws,nodejs,python,go,java,mysql&perline=8" alt="Tech Stack" style="filter: drop-shadow(0 0 10px #00EAFF);">
 </p>
 <p align="center">
