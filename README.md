@@ -1,6 +1,5 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00EAFF&center=true&vCenter=true&width=600&lines=Phakaphol+Dherachaisuphakij;UI/UX+Designer;Quality+Assurance+(Automate+tester)" alt="Typing Banner" />
 </p>
 <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@GodzK/7e2420d9-48b2-48f7-bb65-e61ca370d042.png" /></a>
