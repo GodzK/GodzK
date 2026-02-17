@@ -33,7 +33,7 @@ Portfolio: [https://phakaphol-gta6-clone.vercel.app/](https://phakaphol-gta6-clo
 ## Contact
 
 - Email: godzk25@gmail.com  
-- LinkedIn: [phakaphol](https://linkedin.com/in/phakaphol)  
+- LinkedIn: [phakaphol](https://www.linkedin.com/in/phakaphol-dhera/)  
 - GitHub: [GodzK](https://github.com/GodzK)  
 - Portfolio: [godzk.dev](https://kmutt-phakaphol.vercel.app/)
 
