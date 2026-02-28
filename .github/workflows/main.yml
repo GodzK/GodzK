@@ -2,9 +2,9 @@ name: Streak and Items Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # วันละครั้ง เวลา 07:00 ไทย (UTC+7)
-  workflow_dispatch:
-
+    - cron: "0 0 * * *"   # วันละครั้ง เวลา 07:00 ไทย (UTC+7)
+  workflow_dispatch: {}
+  
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: "16"
 
       - name: Install jq
         run: sudo apt-get install -y jq
@@ -24,36 +24,28 @@ jobs:
       - name: Initialize or update reward.json
         run: |
           if [ ! -f reward.json ]; then
-            echo '{"streak": 0, "gold": 0}' > reward.json
+            echo '{"streak":0,"gold":0}' > reward.json
           fi
-
           node -e "
             const fs = require('fs');
             let data = JSON.parse(fs.readFileSync('reward.json'));
-
             data.streak++;
             data.gold += 10;
-
             fs.writeFileSync('reward.json', JSON.stringify(data, null, 2));
           "
-
           cat reward.json
 
       - name: Initialize or update item.json
         run: |
           if [ ! -f item.json ]; then
-            echo '{"items": {"sword": 1, "shield": 0}}' > item.json
+            echo '{"items":{"sword":1,"shield":0}}' > item.json
           fi
-
           node -e "
             const fs = require('fs');
-            let itemData = JSON.parse(fs.readFileSync('item.json'));
-
-            itemData.items.shield++;
-
-            fs.writeFileSync('item.json', JSON.stringify(itemData, null, 2));
+            let data = JSON.parse(fs.readFileSync('item.json'));
+            data.items.shield++;
+            fs.writeFileSync('item.json', JSON.stringify(data, null, 2));
           "
-
           cat item.json
 
       - name: Commit and push changes
