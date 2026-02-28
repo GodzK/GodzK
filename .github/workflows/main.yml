@@ -2,7 +2,7 @@ name: Streak and Items Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 07:00 ไทย
+    - cron: '0 0 * * *'   # วันละครั้ง เวลา 07:00 ไทย (UTC+7)
   workflow_dispatch:
 
 jobs:
@@ -37,6 +37,8 @@ jobs:
             fs.writeFileSync('reward.json', JSON.stringify(data, null, 2));
           "
 
+          cat reward.json
+
       - name: Initialize or update item.json
         run: |
           if [ ! -f item.json ]; then
@@ -51,6 +53,8 @@ jobs:
 
             fs.writeFileSync('item.json', JSON.stringify(itemData, null, 2));
           "
+
+          cat item.json
 
       - name: Commit and push changes
         run: |
