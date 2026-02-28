@@ -2,7 +2,7 @@ name: Streak and Items Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'   # 07:00 ไทย
   workflow_dispatch:
 
 jobs:
@@ -21,21 +21,10 @@ jobs:
       - name: Install jq
         run: sudo apt-get install -y jq
 
-      # ✅ เช็คก่อนว่าเกิน 2 ครั้งหรือยัง
-      - name: Stop if already ran 2 times
-        run: |
-          if [ -f reward.json ]; then
-            RUNS=$(jq '.runs // 0' reward.json)
-            if [ "$RUNS" -ge 2 ]; then
-              echo "Reached max runs (2). Stopping workflow."
-              exit 1
-            fi
-          fi
-
       - name: Initialize or update reward.json
         run: |
           if [ ! -f reward.json ]; then
-            echo '{"streak": 0, "gold": 0, "runs": 0}' > reward.json
+            echo '{"streak": 0, "gold": 0}' > reward.json
           fi
 
           node -e "
@@ -44,12 +33,9 @@ jobs:
 
             data.streak++;
             data.gold += 10;
-            data.runs++;
 
             fs.writeFileSync('reward.json', JSON.stringify(data, null, 2));
           "
-
-          cat reward.json
 
       - name: Initialize or update item.json
         run: |
@@ -65,8 +51,6 @@ jobs:
 
             fs.writeFileSync('item.json', JSON.stringify(itemData, null, 2));
           "
-
-          cat item.json
 
       - name: Commit and push changes
         run: |
