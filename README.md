@@ -15,7 +15,7 @@ I have delivered production-ready projects for multiple domains, including:
 
 Core Skills: React • Next.js • Tailwind • GSAP • TypeScript • Node.js • REST API • UI/UX
 
-Portfolio: [https://phakaphol-gta6-clone.vercel.app/](https://phakaphol-gta6-clone.vercel.app/)
+Portfolio: [https://kmutt-phakaphol.vercel.app/](https://kmutt-phakaphol.vercel.app/)
 
 ---
 
